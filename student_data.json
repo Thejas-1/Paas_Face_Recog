@@ -1,0 +1,59 @@
+{"paas-project":
+  [{"PutRequest":
+    {"Item":{
+      "id": {"N" : "1"},
+      "name": {"S":"mr_bean"},
+      "major": {"S":"lawyer"},
+      "year": {"S":"freshmen"}
+    }}},
+    {"PutRequest":
+    {"Item":{
+      "id": {"N" : "2"},
+      "name": {"S":"president_biden"},
+      "major": {"S":"history"},
+      "year": {"S":"sophomore"}
+    }}}, 
+    {"PutRequest":
+    {"Item":{
+      "id": {"N":"3"},
+      "name": {"S":"vin_diesel"},
+      "major": {"S" : "computer_science"},
+      "year": {"S":"sophomore"}
+    }}}, 
+    {"PutRequest":
+    {"Item":{
+      "id": {"N":"4"},
+      "name": {"S" : "floki"}, 
+      "major": {"S" : "history"},
+      "year":{"S" : "junior"}
+    }}}, 
+    {"PutRequest":
+    {"Item":{
+      "id": {"N":"5"},
+      "name": {"S" : "president_trump"}, 
+      "major": {"S" : "physics"},
+      "year": {"S":"junior"}
+    }}}, 
+    {"PutRequest":
+    {"Item":{
+      "id": {"N": "6"},
+      "name": {"S" : "morgan_freeman"},
+      "major": {"S" : "math"},
+      "year": {"S" : "senior"}
+    }}}, 
+    {"PutRequest":
+    {"Item":{
+      "id": {"N" : "7"},
+      "name": {"S" : "president_obama"},
+      "major": {"S" : "electrical_engineering"},
+      "year": {"S" : "senior"}
+    }}}, 
+    {"PutRequest":
+    {"Item":{
+      "id": {"N" : "8"},
+      "name": {"S" : "johnny_dep"},
+      "major": {"S" : "computer_science"},
+      "year": {"S" : "senior"}
+    }}}
+  ]
+}
