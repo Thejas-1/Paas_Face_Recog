@@ -1,4 +1,4 @@
-Contirbutors:
+Contributors:
 
 Abhishek Masetty
 Shashank Reddy Baradi
