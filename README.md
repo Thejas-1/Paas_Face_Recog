@@ -1,7 +1,5 @@
 Contributors:
 
-Abhishek Masetty
-Shashank Reddy Baradi
 Thejas Naik
 
 S3 Bucket Details:
